@@ -1,0 +1,8 @@
+{
+    "tooltip.horseinfo.jump": "점프력: %s 블럭",
+    "tooltip.horseinfo.speed": "속도: %s m/s",
+    
+    "config.waila.plugin_horseinfo": "말 능력치",
+    "config.waila.plugin_horseinfo.enabled": "말 능력치 표시",
+    "config.waila.plugin_horseinfo.ignore_mount": "Ignore Mounted Horse"
+}
